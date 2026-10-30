@@ -1,0 +1,41 @@
+[
+    {
+        "student_id": 12345,
+        "student_name": "Yaswanth",
+        "student_age": 19,
+        "student_course": "AI",
+        "subjects": {
+            "Math": 88.0,
+            "Physics": 77.0,
+            "English": 89.0,
+            "Computer": 78.0,
+            "Chemistry": 98.0
+        }
+    },
+    {
+        "student_id": 123456,
+        "student_name": "KIRAN",
+        "student_age": 19,
+        "student_course": "BS_CHEMISTRY",
+        "subjects": {
+            "Math": 99.0,
+            "Physics": 98.0,
+            "English": 88.0,
+            "Computer": 89.0,
+            "Chemistry": 97.0
+        }
+    },
+    {
+        "student_id": 2121,
+        "student_name": "VENU",
+        "student_age": 16,
+        "student_course": "CIVICS",
+        "subjects": {
+            "Math": 88.0,
+            "Physics": 99.0,
+            "English": 99.0,
+            "Computer": 99.0,
+            "Chemistry": 97.0
+        }
+    }
+]
