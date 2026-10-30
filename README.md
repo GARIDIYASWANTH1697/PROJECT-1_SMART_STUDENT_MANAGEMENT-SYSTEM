@@ -113,7 +113,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Muhammad Mursaleen**
+**Yaswanth Garidi**
 
 Python Developer
 
