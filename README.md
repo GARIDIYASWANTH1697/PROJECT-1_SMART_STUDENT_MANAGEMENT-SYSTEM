@@ -117,4 +117,3 @@ python main.py
 
 Python Developer
 
-⭐ If you like this project, don't forget to star the repository.
