@@ -17,7 +17,7 @@ This project allows users to manage student records through a command-line inter
 - 🔃 Sort Students
 - 📝 Automatic Result Card
 - 🎯 Grade Calculation
-- 💾 Permanent JSON Database
+- 💾 Permanent JSON Database.
 
 ---
 
